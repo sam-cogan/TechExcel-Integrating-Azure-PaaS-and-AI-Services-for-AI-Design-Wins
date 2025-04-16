@@ -3,7 +3,8 @@
     "ContosoSuitesVectorizationFunction": {
       "commandName": "Project",
       "commandLineArgs": "--port 7106",
-      "launchBrowser": false
+      "launchBrowser": false,
+      "justMyCode": false
     }
   }
 }
